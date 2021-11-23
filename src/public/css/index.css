@@ -1,0 +1,81 @@
+.header {
+    text-align: center;
+}
+
+.input {
+    margin-right: 10px;
+    width: 250px;
+    height: 20px;
+    padding: 3px;
+    border-radius: 3px;
+    border: 1px solid black;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+.click-btn {
+    font-size: 16px;
+    padding: 3px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+.click-pre {
+    font-size: 16px;
+    padding: 3px 7px;
+    border-radius: 3px 5px;
+    -webkit-border-radius: 3px 5px;
+    -moz-border-radius: 3px 5px;
+    -ms-border-radius: 3px 5px;
+    -o-border-radius: 3px 5px;
+    margin-right: 50px;
+}
+
+.click-next {
+    font-size: 16px;
+    padding: 3px 14px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    margin-right: 50px;
+}
+
+.title-align {
+    padding: 3px 10px;
+    font-size: 13px;
+    font-weight: 700;
+    text-align: center;
+    /* background-color: white; */
+}
+
+.img-box {
+    /* flex: 1;
+    margin-right: 950px; */
+    display: flex;
+    flex-direction: row;
+    padding: 10px 80px;
+    flex-wrap: wrap;
+    /* background-color: rgb(21, 13, 54); */
+}
+
+.img-sty {
+    padding: 3px 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.list-align {
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+}
